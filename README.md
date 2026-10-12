@@ -13,7 +13,7 @@
 
 ### 📷 個人照片
 
-<img  src="image/profile.jpg" alt="個人照片" width="300"/>
+![image](https://github.com/Turtlelongneckfrogcatamazingman/0153B006/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-08-03%20134456.png)
 
 \---
 
